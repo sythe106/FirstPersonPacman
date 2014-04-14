@@ -1,0 +1,27 @@
+# Unity Garbage
+Temp/
+Obj/
+UnityGenerated/
+Library/
+ 
+# Visual Studio garbage
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# OS garbage
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

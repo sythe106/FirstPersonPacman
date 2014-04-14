@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PowerUp.js">
+    <Files>
+      <File FileName="Assets\Script\PowerUp.js" Line="46" Column="2" />
+      <File FileName="Assets\Script\Power.js" Line="12" Column="39" />
+      <File FileName="Assets\Script\eating.js" Line="12" Column="22" />
+      <File FileName="Assets\Script\PowerUp.js" Line="46" Column="2" />
+      <File FileName="Assets\Script\Counter.js" Line="8" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

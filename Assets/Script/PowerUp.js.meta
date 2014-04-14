@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 923ae108b2b417843b87adbb628842e7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Blinky: {instanceID: 0}
+  - Clyde: {instanceID: 0}
+  - Inky: {instanceID: 0}
+  - Pinky: {instanceID: 0}
+  - wubwub: {fileID: 8300000, guid: 624b78e5ac358134cb6248d09ebb404d, type: 3}
+  - music: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
